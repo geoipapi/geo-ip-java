@@ -1,10 +1,5 @@
-# 🌍 GeoIP Java SDK
-
 <div align="center">
-  <img src="https://via.placeholder.com/400x100/2E86AB/FFFFFF?text=GeoIP+Java+SDK" alt="GeoIP Java SDK Logo" />
-</div>
-
-<div align="center">
+  <h1>GeoIP Java SDK</h1>
   <a href="https://mit-license.org/">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" />
   </a>
